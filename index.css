@@ -6,6 +6,7 @@ html, body {
 #heading1 {
   text-align: center;
 }
+#sorcery {color: red; font-family: OCR A Std, monospace; }
 
 .current {list-style-type: none; margin: 0; padding: 0; background: red; overflow: hidden;}
 
