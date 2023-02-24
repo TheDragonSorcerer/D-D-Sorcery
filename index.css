@@ -1,1 +1,8 @@
+html, body {
+  background-color: black;
+  color: white;
+}
 
+#heading1 {
+  text-align: center;
+}
