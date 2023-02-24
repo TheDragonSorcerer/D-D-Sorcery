@@ -6,3 +6,8 @@ html, body {
 #heading1 {
   text-align: center;
 }
+
+.current {list-style-type: none; margin: 0; padding: 0; background: red; overflow: hidden;}
+
+li a {display: block; text-align: center; text-decoration: none; color: white; padding: 10px; float: left;}
+li a:hover {background: deepskyblue; color: black;}
