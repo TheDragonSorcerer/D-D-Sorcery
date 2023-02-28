@@ -1,0 +1,22 @@
+#diceTypes {
+  width: 400px;
+  height: 150px;
+  background-color: red;
+  position: absolute;
+  left: 35%;
+  top: 30%;
+}
+
+#d100 {position: absolute; top: 50%; left: 3%}
+#d20 {position: absolute; top: 50%; left: 15%}
+#d12 {position: absolute; top: 50%; left: 25%}
+#d10 {position: absolute; top: 50%; left: 35%}
+#d8 {position: absolute; top: 50%; left: 45%}
+#d6 {position: absolute; top: 50%; left: 55%}
+#d4 {position: absolute; top: 50%; left: 65%}
+#roll {
+  border-radius: 20px;
+  position: absolute;
+  top: 50%;
+  right: 10%;
+}
