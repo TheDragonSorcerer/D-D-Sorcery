@@ -15,8 +15,10 @@
 #d6 {position: absolute; top: 50%; left: 55%}
 #d4 {position: absolute; top: 50%; left: 65%}
 #roll {
-  border-radius: 20px;
+  border-radius: 50px;
   position: absolute;
-  top: 50%;
+  top: 40%;
   right: 10%;
+  height: 50px;
+  width: 50px;
 }
