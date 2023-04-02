@@ -1,0 +1,16 @@
+#createChar {
+  position: absolute;
+  top: 50%;
+  left: 30%;
+}
+
+#loadChar {
+  position: absolute;
+  top: 50%;
+  left: 60%;
+}
+
+
+#heading {
+  text-align: center;
+}
